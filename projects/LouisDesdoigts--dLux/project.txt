@@ -1,2 +1,2 @@
 https://github.com/LouisDesdoigts/dLux/blob/main/mkdocs.yml
-https://github.com/LouisDesdoigts/dLux/raw/93af2a579874edb914657ffbc27fc315bff6abf3/mkdocs.yml
+https://github.com/LouisDesdoigts/dLux/raw/102f819b3c510248fcf2e3c2b815c0c01aa5ee50/mkdocs.yml

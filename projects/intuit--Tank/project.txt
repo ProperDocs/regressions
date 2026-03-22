@@ -1,2 +1,2 @@
 https://github.com/intuit/Tank/blob/master/mkdocs.yml
-https://github.com/intuit/Tank/raw/107842c667c4759a205e157b86e7a3f7aae51277/mkdocs.yml
+https://github.com/intuit/Tank/raw/a66955c2da636e88c9c3a26044c5f0dbf16b6f87/mkdocs.yml

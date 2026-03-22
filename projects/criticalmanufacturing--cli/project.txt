@@ -1,2 +1,2 @@
 https://github.com/criticalmanufacturing/cli/blob/main/docs/mkdocs.yml
-https://github.com/criticalmanufacturing/cli/raw/0a98f7648b11e43f9c600568bfcb48f9f42f3ec4/docs/mkdocs.yml
+https://github.com/criticalmanufacturing/cli/raw/a9530102ab5c4f78dd41daef58945ac96e310dd4/docs/mkdocs.yml

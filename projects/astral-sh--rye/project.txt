@@ -1,2 +1,2 @@
 https://github.com/astral-sh/rye/blob/main/mkdocs.yml
-https://github.com/astral-sh/rye/raw/e213938342cd08553a7672a417c4fa821c4d7172/mkdocs.yml
+https://github.com/astral-sh/rye/raw/62ec9edbe471958a05a70418b19f3acd54f0484d/mkdocs.yml

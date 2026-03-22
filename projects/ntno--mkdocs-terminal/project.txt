@@ -1,2 +1,2 @@
 https://github.com/ntno/mkdocs-terminal/blob/main/documentation/mkdocs.yml
-https://github.com/ntno/mkdocs-terminal/raw/58a8de18482dfa97e479a3280db37fe997abed42/documentation/mkdocs.yml
+https://github.com/ntno/mkdocs-terminal/raw/395485f5305cb5bee1c7f092bb8834c453c64b79/documentation/mkdocs.yml

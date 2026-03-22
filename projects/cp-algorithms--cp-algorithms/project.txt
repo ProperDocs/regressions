@@ -1,2 +1,2 @@
 https://github.com/cp-algorithms/cp-algorithms/blob/main/mkdocs.yml
-https://github.com/cp-algorithms/cp-algorithms/raw/91672f01ca43064b2757ee67ee3acfe4f198d1f9/mkdocs.yml
+https://github.com/cp-algorithms/cp-algorithms/raw/672bdc29c5bbf579b3cb2065f5afcf2920608c5d/mkdocs.yml

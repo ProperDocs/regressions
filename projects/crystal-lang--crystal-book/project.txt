@@ -1,2 +1,2 @@
 https://github.com/crystal-lang/crystal-book/blob/master/mkdocs.yml
-https://github.com/crystal-lang/crystal-book/raw/6de0597a882215624c79eaecf243e6ce2c9e6598/mkdocs.yml
+https://github.com/crystal-lang/crystal-book/raw/6cd3016809d6dba9d0dabd02fa308927e96ae050/mkdocs.yml

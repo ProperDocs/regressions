@@ -1,2 +1,2 @@
 https://github.com/device-management-toolkit/docs/blob/main/mkdocs.yml
-https://github.com/device-management-toolkit/docs/raw/df8be31f21bcd644232e01a404f932bd97af8fe7/mkdocs.yml
+https://github.com/device-management-toolkit/docs/raw/0a7ff69e4634de73f6523f036dcfe997bd8acf39/mkdocs.yml

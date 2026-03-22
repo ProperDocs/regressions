@@ -1,2 +1,2 @@
 https://github.com/spaceship-prompt/spaceship-prompt/blob/master/mkdocs.yml
-https://github.com/spaceship-prompt/spaceship-prompt/raw/d358824660bc3ee3735d1598a61286244d557069/mkdocs.yml
+https://github.com/spaceship-prompt/spaceship-prompt/raw/f6f93b18f3e54060f5cb7d67227c5104a3de67c7/mkdocs.yml

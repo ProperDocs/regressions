@@ -1,2 +1,2 @@
 https://github.com/mkdocs/mkdocs/blob/master/mkdocs.yml
-https://github.com/mkdocs/mkdocs/raw/4c7404485f988f409ccaf42fefe705222ff5965a/mkdocs.yml
+https://github.com/mkdocs/mkdocs/raw/2862536793b3c67d9d83c33e0dd6d50a791928f8/mkdocs.yml
